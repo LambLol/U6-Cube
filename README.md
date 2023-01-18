@@ -1,6 +1,7 @@
 # U6-Cube
 
 class Cube {
+
     private int side;
 
     public Cube() {
